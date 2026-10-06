@@ -1,6 +1,6 @@
 # Student Management REST API — Assignment 2
 
-Web Dev III (Node.js & Express Backend) — Unit 2 — In-Class Lab (2.5 marks)
+Web Dev III (Node.js & Express Backend) — Unit 2 
 
 ## Overview
 A RESTful API built with **Node.js + Express** to perform CRUD operations on student
